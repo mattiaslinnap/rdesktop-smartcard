@@ -16,3 +16,10 @@
 *.exe
 *.out
 *.app
+
+rdesktop-smartcard.tar.gz
+rdesktop-1.8.1/Makefile
+rdesktop-1.8.1/config.log
+rdesktop-1.8.1/config.status
+rdesktop-1.8.1/rdesktop
+
